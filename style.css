@@ -51,6 +51,11 @@ a {
   color: #e5e7eb;
 }
 
+.content04.header {
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .header_links {
   display: flex;
   flex-direction: row;
