@@ -56,4 +56,10 @@ a {
 }
 
 .footer_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3f485a;
+  color: white;
+  height: 50px;
 }
