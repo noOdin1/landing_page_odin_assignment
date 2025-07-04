@@ -63,6 +63,12 @@ a {
   gap: 20px;
 }
 
+#content_02_title {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+}
+
 .content01_div {
   color: white;
   margin-top: 0px;
