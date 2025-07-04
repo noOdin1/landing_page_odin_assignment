@@ -33,8 +33,14 @@ button {
   flex-direction: row;
   color: White;
   justify-content: space-between;
+  align-items: baseline;
   margin-top: 0px;
   margin-bottom: 0px;
+}
+
+.header_div_text {
+  font-size: 24px;
+  color: #f9faf8;
 }
 
 .content01_left .text,
