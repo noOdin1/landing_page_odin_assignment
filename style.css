@@ -25,6 +25,17 @@ a {
 
 button {
   background: #3882f6;
+  width: 90px;
+  height: 30px;
+  color: #e5e7eb;
+  font-weight: bold;
+  border-radius: 5px;
+  border-color: #e5e7eb;
+  border-style: solid;
+}
+
+button.content01.button {
+  border-color: #3882f6;
 }
 
 .header_div {
