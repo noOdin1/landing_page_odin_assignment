@@ -112,6 +112,17 @@ a {
 }
 
 .content02_div {
+  display: flex;
+  flex-direction: column;
+}
+
+.container_top {
+  text-align: center;
+}
+
+.container_bottom {
+  display: flex;
+  flex-direction: row;
 }
 
 .content03_div {
