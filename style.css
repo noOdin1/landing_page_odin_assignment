@@ -6,7 +6,6 @@ body {
 }
 a {
   text-decoration: none;
-  color: white;
 }
 
 .header_div,
@@ -90,6 +89,8 @@ a {
 
 .content04_div {
   background: #3882f6;
+  border-radius: 5px;
+  margin: 0px 160px;
 }
 
 .footer_div {
