@@ -38,6 +38,11 @@ button.content01.button {
   border-color: #3882f6;
 }
 
+img {
+  width: 200px;
+  height: 200px;
+}
+
 .header_div {
   display: flex;
   flex-direction: row;
