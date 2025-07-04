@@ -121,7 +121,8 @@ a {
 .content04_div {
   background: #3882f6;
   border-radius: 5px;
-  margin: 0px 160px;
+  margin: 100px 160px;
+  padding: 60px 80px;
 }
 
 .footer_div {
