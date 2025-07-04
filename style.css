@@ -15,7 +15,7 @@ a {
 .content03_div,
 .content04_div,
 .footer {
-  padding: 8px 100px;
+  padding: 8px 160px;
 }
 
 .header_div,
@@ -49,6 +49,7 @@ button {
   margin-top: 0px;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 .content01_div .main {
