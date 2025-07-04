@@ -47,6 +47,8 @@ button {
 .content01_div {
   color: white;
   margin-top: 0px;
+  display: flex;
+  flex-direction: row;
 }
 
 .content01_div .main {
