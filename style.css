@@ -24,6 +24,10 @@ a {
   background: #1f2937;
 }
 
+button {
+  background: #3882f6;
+}
+
 .header_div {
   display: flex;
   flex-direction: row;
