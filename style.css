@@ -18,10 +18,15 @@ a {
   padding: 8px 100px;
 }
 
+.header_div,
+.content01_div,
+.footer_div {
+  background: #1f2937;
+}
+
 .header_div {
   display: flex;
   flex-direction: row;
-  background: #3f485a;
   color: White;
   justify-content: space-between;
   margin-top: 0px;
@@ -36,7 +41,6 @@ a {
 }
 
 .content01_div {
-  background: #3f485a;
   color: white;
   margin-top: 0px;
 }
@@ -48,7 +52,6 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #3f485a;
   color: white;
   height: 50px;
 }
