@@ -88,6 +88,10 @@ a {
   background: #e5e7eb;
 }
 
+.content04_div {
+  background: #3882f6;
+}
+
 .footer_div {
   display: flex;
   justify-content: center;
