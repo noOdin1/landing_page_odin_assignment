@@ -44,6 +44,8 @@ button {
 }
 
 .content01_left .text,
+.content04.header,
+.content04.message,
 a {
   font-size: 18px;
   color: #e5e7eb;
