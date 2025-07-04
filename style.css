@@ -49,7 +49,17 @@ button {
   margin-top: 0px;
 }
 
+.content01_div .main {
+  color: #f9faf8;
+  font-weight: 900;
+  font-size: 48px;
+}
+
 .content02_div {
+}
+
+.content03_div {
+  background: #e5e7eb;
 }
 
 .footer_div {
