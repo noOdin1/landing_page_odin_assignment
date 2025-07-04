@@ -1,6 +1,12 @@
 /* style.css */
 body {
   font-family: Roboto, Verdana, Tahoma, Arial, san-serif;
+  margin: 0px;
+  /* padding: 0px 100px; */
+}
+a {
+  text-decoration: none;
+  color: white;
 }
 
 .header_div {
@@ -8,9 +14,32 @@ body {
   flex-direction: row;
   background: #3f485a;
   color: White;
+  justify-content: space-between;
+  /* margin: 0px 100px; */
+  padding: 8px 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.header_logo {
+  /* margin-left: 100px; */
+}
+
+.nav_links {
+  /* margin-right: 100px; */
+}
+
+.header_links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
 }
 
 .content01_div {
+  background: #3f485a;
+  color: white;
+  margin-top: 0px;
 }
 
 .content02_div {
