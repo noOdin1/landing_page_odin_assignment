@@ -24,18 +24,8 @@ a {
   background: #3f485a;
   color: White;
   justify-content: space-between;
-  /* margin: 0px 100px; */
-  /* padding: 8px 100px; */
   margin-top: 0px;
   margin-bottom: 0px;
-}
-
-.header_logo {
-  /* margin-left: 100px; */
-}
-
-.nav_links {
-  /* margin-right: 100px; */
 }
 
 .header_links {
@@ -49,7 +39,6 @@ a {
   background: #3f485a;
   color: white;
   margin-top: 0px;
-  /* padding: 8px 100px; */
 }
 
 .content02_div {
