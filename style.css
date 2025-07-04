@@ -46,6 +46,10 @@ button.content01.button {
   border-radius: 15px;
 }
 
+.img_text {
+  text-align: center;
+}
+
 .header_div {
   display: flex;
   flex-direction: row;
