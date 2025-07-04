@@ -37,6 +37,12 @@ button {
   margin-bottom: 0px;
 }
 
+.main.text,
+a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
 .header_links {
   display: flex;
   flex-direction: row;
