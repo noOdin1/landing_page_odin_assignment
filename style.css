@@ -128,6 +128,13 @@ a {
   flex-direction: column;
 }
 
+.content02_img_btn {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-around; */
+  align-items: center;
+}
+
 .container_top {
   text-align: center;
 }
