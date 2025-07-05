@@ -132,7 +132,6 @@ a {
 .container_bottom {
   display: flex;
   flex-direction: row;
-  /* justify-content: space-around; */
   justify-content: center;
   padding: 20px;
   margin-bottom: 60px;
@@ -156,6 +155,7 @@ a {
 
 .content03_div {
   background: #e5e7eb;
+  padding: 20px 250px;
 }
 
 .content04_div {
