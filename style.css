@@ -129,6 +129,12 @@ a {
   flex-direction: column;
 }
 
+.container_bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 .content02_img_btn {
   display: flex;
   flex-direction: column;
