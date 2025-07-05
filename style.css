@@ -100,6 +100,11 @@ a {
   color: #1f2937;
 }
 
+.content03.text2 {
+  text-align: right;
+  font-weight: 900;
+}
+
 .content01_div {
   color: white;
   margin-top: 0px;
