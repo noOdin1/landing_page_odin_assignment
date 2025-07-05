@@ -132,7 +132,11 @@ a {
 .container_bottom {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  /* justify-content: space-around; */
+  justify-content: center;
+  padding: 20px;
+  margin-bottom: 60px;
+  gap: 35px;
 }
 
 .content02_img_btn {
